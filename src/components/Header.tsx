@@ -57,7 +57,7 @@ export default function Header({
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-700 to-purple-600 bg-clip-text text-transparent">
-                TechPulse
+                Surya TechPulse
               </h1>
               <p className="text-xs text-gray-500 -mt-0.5">Gadgets & Technology</p>
             </div>

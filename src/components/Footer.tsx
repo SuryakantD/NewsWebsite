@@ -11,7 +11,7 @@ export default function Footer() {
               <div className="bg-gradient-to-br from-blue-500 to-purple-500 p-1.5 rounded-lg">
                 <Zap size={20} className="text-white" />
               </div>
-              <span className="text-xl font-bold">TechPulse</span>
+              <span className="text-xl font-bold">Surya TechPulse</span>
             </div>
             <p className="text-gray-400 text-sm">
               Your go-to source for the latest gadgets, technology news, and innovation updates. 
@@ -48,7 +48,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-500">
-            © {new Date().getFullYear()} TechPulse. All news content belongs to respective sources.
+            © {new Date().getFullYear()} Surya TechPulse. All news content belongs to respective sources.
           </p>
           <p className="text-xs text-gray-500">
             Built with React + Tailwind CSS | News via RSS feeds
